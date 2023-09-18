@@ -1,7 +1,6 @@
 ### Hi there, I'm Nicolas Vaz!
 
-- 🔭 I am working on website development.
-- 📚 I’m studying programming for full stack javascript development
+- 🔭 I am only Studying new Programming Languages trying to find the right one .
 
 ##
 
